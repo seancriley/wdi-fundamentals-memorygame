@@ -1,37 +1,37 @@
 body {
-text-align: center;
-margin: 0 ;
+	text-align: center;
+	margin: 0 ;
 }
 
 h1 {
 	font-family: Raleway;
-color: #FFFFFF;
-letter-spacing: 1px;
-font-weight: 400;
-font-size: 45px;
-margin: 0;
-text-transform: uppercase;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	margin: 0;
+	text-transform: uppercase;
 }
 
 .instructionLink {
-font-family: Raleway;
-letter-spacing: 1px;
-font-weight: 600;
-font-size: 18px;
+	font-family: Raleway;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
 }
 
 h2 {
-font-family: Raleway;
-color: #0D2C40;
-letter-spacing: 1px;
-font-weight: 600;
-font-size: 20px;
+	font-family: Raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
 }
 
 p {
-font-family: "Droid Serif";
-line-height: 26px;
-font-size: 20px;
+	font-family: "Droid Serif";
+	line-height: 26px;
+	font-size: 20px;
 }
 
 header {
@@ -86,12 +86,12 @@ footer {
 }
 
 .clearfix:after {
-visibility: hidden;
-display: block;
-content: " ";
-clear: both;
-height: 0;
-font-size: 0;
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 
 .name {
